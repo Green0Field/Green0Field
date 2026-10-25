@@ -1,18 +1,35 @@
 name: Update dynamic info in README 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/35 * * * *"
   workflow_dispatch:
   push:
+permissions:
+  contents: write
 jobs:
-  build:
-    name: Update this repo's README with recent activity
+  activity:
+    name: Update recent activity
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
       - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+  contrib:
+      name: Update 3d contribution graph
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v5
+        - uses: yoshi389111/github-profile-3d-contrib@latest
+          env: 
+            GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+            USERNAME: ${{ github.repository_owner }}
+        - name: Commit & Push
+          run: |
+            git config user.name github-actions[bot]
+            git config user.email github-actions@github.com
+            git add -A .
+            if git commit -m "Update 3d contribution graph [skip ci]"; then
+              git push
+            fi
+            
