@@ -9,7 +9,8 @@
 
 ## Hi, I'm Green0Field
 
-![My Avatar, created on Octocat Creator](octocat-1789064274829.png)
+<img alt="My Avatar, created on Octocat Creator" src=octocat-1789064274829.png width=250px>
+
 <sup>if you're wondering where I made my avatar, check out [octocat creator](https://myoctocat.com/)</sup>
 
 ---
@@ -19,9 +20,10 @@ I'm a real octocat on this new platform called Github, also known as the octocat
 ---
 
 ![Overview Stats](../generated/overview.svg#gh-light-mode-only)
-![3d-contrib](profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only)
+<img alt="3d contrib graph" src=profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only width=350>
 ![Overview Stats](../generated/overview.svg#gh-dark-mode-only)
-![3d-contrib](profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
+<img alt="3d contrib graph" src=profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only width=350>
+
 <sup>if you're wondering how I got these stats to show, check out [github-stats](https://github.com/jstrieb/github-stats) and [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)</sup>
 
 - 🔭 What I’m currently working on: You can find out what I'm working on based on my recent activity:
