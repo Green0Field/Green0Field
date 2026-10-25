@@ -15,7 +15,9 @@ I'm a real octocat on this new platform called Github, also known as the octocat
 ![Languages Stats](../generated/languages.svg#gh-dark-mode-only)
 <sup>if you're wondering how I got these stats to show, check out [github-stats](https://github.com/jstrieb/github-stats)
 
-- 🔭 I’m currently working on [BladeOS](https://github.com/Green0Field/bladeos) and [BladeOS Base](https://github.com/Green0Field/bladeos-base)
+- 🔭 What I’m currently working on: You can find out what I'm working on based on my recent activity:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 - 👯 I’m looking to collaborate on some great open source projects. Just email me if you'd like me to collaborate!
 - 📫 How to reach me: though my email at green0field@protonmail.com
 - 😄 Pronouns: he/him
