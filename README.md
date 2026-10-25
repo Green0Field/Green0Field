@@ -19,10 +19,10 @@ I'm a real octocat on this new platform called Github, also known as the octocat
 ---
 
 ![Overview Stats](../generated/overview.svg#gh-light-mode-only)
-![Languages Stats](../generated/languages.svg#gh-light-mode-only)
+![3d-contrib](profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only)
 ![Overview Stats](../generated/overview.svg#gh-dark-mode-only)
-![Languages Stats](../generated/languages.svg#gh-dark-mode-only)
-<sup>if you're wondering how I got these stats to show, check out [github-stats](https://github.com/jstrieb/github-stats)
+![3d-contrib](profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
+<sup>if you're wondering how I got these stats to show, check out [github-stats](https://github.com/jstrieb/github-stats) and [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)</sup>
 
 - 🔭 What I’m currently working on: You can find out what I'm working on based on my recent activity:
 <!--START_SECTION:activity-->
