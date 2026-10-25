@@ -9,10 +9,10 @@ I'm a real octocat on this new platform called Github, also known as the octocat
 
 ---
 
-![Overview Stats](https://github.com/Green0Field/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![Languages Stats](https://github.com/Green0Field/github-stats/blob/generated/languages.svg#gh-light-mode-only)
-![Overview Stats](https://github.com/Green0Field/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![Languages Stats](https://github.com/Green0Field/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![Overview Stats](../generated/overview.svg#gh-light-mode-only)
+![Languages Stats](../generated/languages.svg#gh-light-mode-only)
+![Overview Stats](../generated/overview.svg#gh-dark-mode-only)
+![Languages Stats](../generated/languages.svg#gh-dark-mode-only)
 <sup>if you're wondering how I got these stats to show, check out [github-stats](https://github.com/jstrieb/github-stats)
 
 - 🔭 I’m currently working on [BladeOS](https://github.com/Green0Field/bladeos) and [BladeOS Base](https://github.com/Green0Field/bladeos-base)
