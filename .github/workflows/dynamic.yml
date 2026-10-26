@@ -28,9 +28,9 @@ jobs:
           run: |
             git config user.name github-actions[bot]
             git config user.email github-actions@github.com
-            git pull --rebase
             git add -A
             if git commit -m "Update 3d contribution graph [skip ci]"; then
+              git pull --rebase
               git push
             fi
             
