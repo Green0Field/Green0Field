@@ -1,4 +1,3 @@
-this is just a test to get Pull shark github achievement
 > [!WARNING]
 > ### [Keep Android Open!](https://keepandroidopen.org/)
 > ---
