@@ -28,11 +28,11 @@ I'm a real octocat on this new platform called Github, also known as the octocat
 
 - 🔭 What I’m currently working on: You can find out what I'm working on based on my recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Green0Field/Green0Field/pull/3) in [Green0Field/Green0Field](https://github.com/Green0Field/Green0Field)
-2. 💪 Opened PR [#3](https://github.com/Green0Field/Green0Field/pull/3) in [Green0Field/Green0Field](https://github.com/Green0Field/Green0Field)
-3. 🔒 Closed issue [#2](https://github.com/Green0Field/Green0Field/issues/2) in [Green0Field/Green0Field](https://github.com/Green0Field/Green0Field)
-4. ❗ Opened issue [#2](https://github.com/Green0Field/Green0Field/issues/2) in [Green0Field/Green0Field](https://github.com/Green0Field/Green0Field)
-5. 🎉 Merged PR [#1](https://github.com/Green0Field/Green0Field/pull/1) in [Green0Field/Green0Field](https://github.com/Green0Field/Green0Field)
+1. 🎉 Merged PR [#4](https://github.com/Green0Field/Green0Field/pull/4) in [Green0Field/Green0Field](https://github.com/Green0Field/Green0Field)
+2. 💪 Opened PR [#4](https://github.com/Green0Field/Green0Field/pull/4) in [Green0Field/Green0Field](https://github.com/Green0Field/Green0Field)
+3. 🎉 Merged PR [#3](https://github.com/Green0Field/Green0Field/pull/3) in [Green0Field/Green0Field](https://github.com/Green0Field/Green0Field)
+4. 💪 Opened PR [#3](https://github.com/Green0Field/Green0Field/pull/3) in [Green0Field/Green0Field](https://github.com/Green0Field/Green0Field)
+5. 🔒 Closed issue [#2](https://github.com/Green0Field/Green0Field/issues/2) in [Green0Field/Green0Field](https://github.com/Green0Field/Green0Field)
 <!--END_SECTION:activity-->
 - 👯 I’m looking to collaborate on some great open source projects. Just email me if you'd like me to collaborate!
 - 📫 How to reach me: though my email at green0field@protonmail.com
