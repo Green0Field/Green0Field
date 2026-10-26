@@ -20,7 +20,7 @@ I'm a real octocat on this new platform called Github, also known as the octocat
 ---
 
 ![Overview Stats](../generated/overview.svg#gh-light-mode-only)
-<img alt="3d contrib graph" src=profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only width=350>
+<img alt="3d contrib graph" src=profile-3d-contrib/rainbow.svg#gh-light-mode-only width=350>
 ![Overview Stats](../generated/overview.svg#gh-dark-mode-only)
 <img alt="3d contrib graph" src=profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only width=350>
 ![Trophies](https://trophy.ryglcloud.net/?username=Green0Field&theme=algolia)
