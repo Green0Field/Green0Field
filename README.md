@@ -19,6 +19,7 @@ I'm a real octocat on this new platform called Github, also known as the octocat
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=Green0Field)
 ![Overview Stats](../generated/overview.svg#gh-light-mode-only)
 <img alt="3d contrib graph" src=profile-3d-contrib/rainbow.svg#gh-light-mode-only width=350>
 ![Overview Stats](../generated/overview.svg#gh-dark-mode-only)
